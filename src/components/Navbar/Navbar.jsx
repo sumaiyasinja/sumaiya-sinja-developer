@@ -5,7 +5,7 @@ const Navbar = () => {
     // const [darkMode, setDarkMode] = useState(false)
     const navLinks = <>
         <li><Link to="/" className="text-[#12F7D6] text-xl font-normal">Home</Link></li>
-        <li><Link to="/" className="text-[#12F7D6] text-xl font-normal">Blogs</Link></li>
+        <li><Link to="/" className="text-[#12F7D6] text-xl font-normal">Projects</Link></li>
         <li><Link to="/" className="text-[#12F7D6] text-base font-normal">LinkenIn</Link></li>
         <li><Link to="/" className="text-[#12F7D6] text-base font-normal">Github</Link></li>
         
