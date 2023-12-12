@@ -1,5 +1,5 @@
 import React from 'react';
-
+import './DownloadButton.css'
 const DownloadButton = () => {
     return (
         <button className="botao">
@@ -26,7 +26,7 @@ const DownloadButton = () => {
             </g>
           </g>
         </svg>
-        <span className="texto">Download</span>
+        <span className="texto">Download CV</span>
       </button>
     );
 };

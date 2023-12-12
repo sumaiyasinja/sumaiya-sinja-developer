@@ -2,6 +2,7 @@
 const Footer = () => {
     return (
         <div className="container mx-auto py-4"> 
+		<hr />
             {/* simple footer with copyright & social links */}
             <div className="grid justify-center pt-6 lg:justify-between">
 			<div className="flex flex-col self-center text-sm text-center md:block lg:col-start-1 md:space-x-6">
